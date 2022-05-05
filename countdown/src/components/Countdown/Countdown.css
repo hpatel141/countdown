@@ -1,0 +1,25 @@
+.Countdown{
+  display: flex;
+  justify-content: center ;
+  margin-top: 10%;
+}
+.time{
+  font-size: 70px;
+  color: #fff;
+  background-color: #444;
+  margin: 20px 20px 5px 20px;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+.units{
+  color: #444;
+  font-style: italic;
+  font-size: 25px;
+}
+.Countdown-invalid{
+  color: #444;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: italic;
+  opacity: 0.5;
+}
